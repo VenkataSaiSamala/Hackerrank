@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleOrange", "AppleOrange\AppleOrange.csproj", "{E22E46FD-A367-496B-9D11-07BE59008DF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{08D8EE5A-74B9-4245-8721-C82D9E7F1FB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E22E46FD-A367-496B-9D11-07BE59008DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E22E46FD-A367-496B-9D11-07BE59008DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E22E46FD-A367-496B-9D11-07BE59008DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D8EE5A-74B9-4245-8721-C82D9E7F1FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D8EE5A-74B9-4245-8721-C82D9E7F1FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D8EE5A-74B9-4245-8721-C82D9E7F1FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D8EE5A-74B9-4245-8721-C82D9E7F1FB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
